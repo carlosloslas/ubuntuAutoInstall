@@ -5,5 +5,7 @@ Automatic installation of ubuntu &amp; needed packages
 * Git
 * Zhs
 * Atom
+* Miniconda
 * Dropbox
 * Chrome
+* Mendeley
